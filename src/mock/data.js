@@ -29,9 +29,9 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'jan_robot.png',
+    img: 'robot.png',
     title: 'Agentic AI & Robotics',
-    info: `Inspired by the opportunity of "when LLMs get their bodies," I partnered with a few of my colleagues to better understand its limitations in practice.`,
+    info: `Inspired by the opportunity of "when LLMs get their bodies," I partnered with a few of my colleagues to better understand what that looks like in practice.`,
     info2: 'Stick around until the end of the video to see how it interprets some dance moves!',
     url: 'https://www.youtube.com/watch?v=yM-F6DTd6og',
     repo: '', // if no repo, the button will not show up
